@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **ERP Project**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Angualr**
 
 - 🤝 I’m looking for help with **ERP Project**
 
